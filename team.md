@@ -5,6 +5,6 @@
 
 -NAU Sophmore
 -Computer Science Major
--Snowboards, owns too many plants, paints
+-Snowboards, owns too many plants, paints!
 
 # Alex King
