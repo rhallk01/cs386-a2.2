@@ -1,7 +1,7 @@
-#Haley Berger
+# Haley Berger
 
 
-#Haley Kloss
+# Haley Kloss
 
 
-#Alex King
+# Alex King
