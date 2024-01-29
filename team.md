@@ -4,6 +4,9 @@ I like robots! Woooooo
 
 # Haley Kloss
 
+-NAU Sophmore
+-Computer Science Major
+-Snowboards, owns too many plants, paints
 
 # Alex King
 i am a programmer who occasionally likes programming <br>
